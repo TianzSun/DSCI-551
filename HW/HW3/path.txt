@@ -1,0 +1,1 @@
+mysql -uroot -pDSCI551 -Dsakila < E:/Study/2021FALL/DSCI551/HW/HW3/q1_a.sql
